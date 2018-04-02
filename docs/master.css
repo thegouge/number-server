@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    background: rgb(54, 54, 54);
+}
+
+main {
+    margin: auto;
+    margin-top: 50px;
+    background: #b1f0f1;
+    padding: 50px;
+    display: inline-block;
+}
+
+    h2 {
+        font-size: 40px;
+    }
+
+    p {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+
+    .buttons {
+        margin-top: 10px;
+    }
+
+        button {
+            width: 30px;
+            height: 30px;
+        }
