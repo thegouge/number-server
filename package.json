@@ -1,0 +1,19 @@
+{
+  "name": "number-server",
+  "version": "1.0.0",
+  "description": "simple counter that synchs up across different instances",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegouge/number-server.git"
+  },
+  "author": "thegouge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegouge/number-server/issues"
+  },
+  "homepage": "https://github.com/thegouge/number-server#readme"
+}
