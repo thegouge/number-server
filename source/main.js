@@ -1,4 +1,3 @@
-
 var output = parseInt(document.getElementById('output').innerHTML);
 
 function decrease() {
