@@ -2,7 +2,7 @@
   "name": "number-server",
   "version": "1.0.0",
   "description": "simple counter that synchs up across different instances",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest"
   },
