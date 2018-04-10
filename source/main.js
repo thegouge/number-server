@@ -1,3 +1,0 @@
-function minus () {}
-
-function plus () {}
