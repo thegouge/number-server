@@ -9,10 +9,10 @@ var counter = {
 var port = 3000;
 
 app.use('/assets', express.static(__dirname + '/assets'));
-app.use(express.static(__dirname + "/public"));
+app.use(express.static(__dirname + "/docs"));
 
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, "public", "index.html"));
+    res.sendFile(path.join(__dirname, "docs", "index.html"));
 });
 
 app.put('/', (req, res) => {
